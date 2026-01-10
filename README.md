@@ -13,6 +13,11 @@ A Bash script that displays system information on Linux systems.
 
 ---
 
+How to Run
+
+chmod +x system_info.sh
+./system_info.sh
+
 Output
 
 <img width="790" height="680" alt="Screenshot 2026-01-09 162128" src="https://github.com/user-attachments/assets/30d2908f-832b-458a-9976-ae053e35008e" />
