@@ -16,7 +16,10 @@ A Bash script that displays system information on Linux systems.
 How to Run
 
 chmod +x system_info.sh
+
 ./system_info.sh
+
+---
 
 Output
 
